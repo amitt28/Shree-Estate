@@ -1,0 +1,8 @@
+.slick-slide {
+    padding: 14px; /* Creates horizontal padding between each card */
+  }
+  
+  .slick-list {
+    margin: -14px; /* Ensures the slides are aligned properly */
+  }
+  
